@@ -6,6 +6,8 @@
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    background-color: @beige;
+    padding: 30px;
     @media @mobile {
       margin-top: 1.5em;
       margin-left: 20px;
@@ -13,12 +15,22 @@
     }
 }
 
-.subhed {
-  text-align: left;
-  padding: 1em 0 1em 0;
+.u-container-text-no-color {
+    font-family: garamond-premier-pro, serif;
+    font-size: 22px;
+    max-width: 700px;
+    margin-top: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    @media @mobile {
+      margin-top: 1.5em;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
 }
 
-.u-container-text h2 {
+.u-container-text-no-color h2 {
   font-family: @mallory;
   font-weight: 800;
   font-size: 1.2em;
@@ -27,12 +39,12 @@
 }
 
 .u-container-text h3 {
-  font-family: @mono;
+  font-family: @zilla;
+  font-size: 2.6em;
   font-weight: 700;
-  font-size: 1.1em;
-  border: 1px dashed black;
-  padding: 4px;
-  margin: 2em 0 2em 0;
+  line-height: 1.05em;
+  color: black;
+  margin: 1em 0 1em 0;
 }
 
 .u-container-text a {
@@ -40,11 +52,22 @@
   text-decoration: none;
 }
 
+.subhed {
+  text-align: left;
+  padding: 1em 0 1em 0;
+}
+
+.name-title {
+  font-family: @zilla;
+  font-weight: 700;
+  color: @mustard-yellow;
+}
+
 // Photos
 
 .hero-image img {
   width: 100%;
-  padding-top: 3em;
+  padding-top: .5em;
   @media @mobile {
     padding-top: .5em;
   }
@@ -58,13 +81,11 @@
 }
 
 .caption {
-  text-align: center;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: .5em;
+  text-align: left;
+  margin-left: 20px;
+  // padding-bottom: .25em;
   font-family: @serif;
-  color: grey;
+  margin-bottom: 30px;
   @media @mobile {
     padding-bottom: 0;
     margin-left: 20px;
@@ -73,9 +94,10 @@
 }
 
 .caption p {
-  font-family: @serif;
-  font-size: 14px;
-  color: grey;
+  font-family: @mallory;
+  font-size: 13.5px;
+  font-weight: 300;
+  color: #000;
   @media @mobile {
   font-size: 12px;
   }
