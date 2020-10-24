@@ -1,13 +1,13 @@
 .u-container-text {
     font-family: garamond-premier-pro, serif;
     font-size: 22px;
-    max-width: 700px;
+    max-width: 750px;
     margin-top: 1.5em;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    background-color: @beige;
-    padding: 30px;
+    // background-color: @brand-grey;
+    // padding: 30px;
     @media @mobile {
       margin-top: 1.5em;
       margin-left: 20px;
@@ -40,8 +40,8 @@
 
 .u-container-text h3 {
   font-family: @zilla;
-  font-size: 2.6em;
-  font-weight: 700;
+  font-size: 2.2em;
+  font-weight: 800;
   line-height: 1.05em;
   color: black;
   margin: 1em 0 1em 0;
@@ -60,7 +60,8 @@
 .name-title {
   font-family: @zilla;
   font-weight: 700;
-  color: @mustard-yellow;
+  color: black;
+  text-align: center;
 }
 
 // Photos
@@ -73,8 +74,13 @@
   }
 }
 
+.inline-image-wrapper {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .inline-img {
-  padding-top: 1em;
   @media @mobile {
     padding-top: 0;
   }
@@ -107,4 +113,24 @@
   background-color: @justice-beige;
   color: black;
   padding: 10px;
+}
+
+.video-wrapper {
+ background-color: @brand-grey;
+}
+
+.video-embed {
+  position: relative;
+  padding-bottom: 85%;
+  width: 100%;
+  text-align: left;
+  margin: 2.5em 0 2.5em 0;
+}
+
+.video-embed iframe {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  overflow: hidden;
+  padding: 50px;
 }

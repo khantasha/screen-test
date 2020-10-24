@@ -24,13 +24,6 @@
     <% }else if(section.type == "pullquote"){ %>
       <h3><%= section.value.text %></h3>
 
-    <!-- Inline image -->
-    <% }else if(section.type == "inline-img"){ %>
-      <img class="inline-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
-      <div class="caption">
-        <p><%= section.value.caption %></p>
-      </div>
-
     <% }else if(section.type == "cta-box"){ %>
       <div class="cta-box">
         <em><%= section.value.text %></em>
@@ -45,6 +38,44 @@
         <div class="caption">
           <p><%= section.value.caption %></p>
         </div>
+      <div class="u-container-text">
+
+        <!-- Inline image -->
+        <% }else if(section.type == "inline-img"){ %>
+        </div>
+        <div class="inline-image-wrapper">
+            <img class="inline-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+            <div class="caption">
+              <p><%= section.value.caption %></p>
+            </div>
+        </div>
+        <div class="u-container-text">
+
+
+      <% }else if(section.type == "video"){ %>
+      </div>
+        <div class="lead-wrapper">
+          <div class="lead-headline">
+            <div class="headline-text">
+              <h1><%= section.value.quote %></h1>
+            </div>
+          </div>
+          <div class="video-embed">
+          <iframe src="<%= section.value.video %>" width="700" height="850" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+        </div>
+
+        <div class="lead-wrapper-mobile">
+          <div class="lead-headline-mobile">
+            <div class="headline-text-mobile">
+              <h1><%= section.value.quoteMobile %></h1>
+            </div>
+          </div>
+          <div class="video-embed">
+          <iframe src="<%= section.value.video %>" width="700" height="850" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+        </div>
+
       <div class="u-container-text">
 
 <% } %>
