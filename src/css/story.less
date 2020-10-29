@@ -80,6 +80,12 @@
     margin-right: auto;
 }
 
+.inline-image-wrapper-parents {
+    max-width: 475px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .inline-img {
   @media @mobile {
     padding-top: 0;
@@ -87,9 +93,11 @@
 }
 
 .caption {
-  text-align: left;
+  text-align: center;
   margin-left: 20px;
-  // padding-bottom: .25em;
+  max-width: 200px;
+  margin-right: auto;
+  margin-left: auto;
   font-family: @serif;
   margin-bottom: 30px;
   @media @mobile {
@@ -101,9 +109,9 @@
 
 .caption p {
   font-family: @mallory;
-  font-size: 13.5px;
+  font-size: 12px;
   font-weight: 300;
-  color: #000;
+  color: grey;
   @media @mobile {
   font-size: 12px;
   }
@@ -113,24 +121,4 @@
   background-color: @justice-beige;
   color: black;
   padding: 10px;
-}
-
-.video-wrapper {
- background-color: @brand-grey;
-}
-
-.video-embed {
-  position: relative;
-  padding-bottom: 85%;
-  width: 100%;
-  text-align: left;
-  margin: 2.5em 0 2.5em 0;
-}
-
-.video-embed iframe {
-  width: 100%;
-  position: absolute;
-  height: 100%;
-  overflow: hidden;
-  padding: 50px;
 }

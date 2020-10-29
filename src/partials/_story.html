@@ -51,12 +51,22 @@
         </div>
         <div class="u-container-text">
 
+          <!-- Inline image for parents -->
+          <% }else if(section.type == "parents-img"){ %>
+          </div>
+          <div class="inline-image-wrapper-parents">
+              <img class="inline-img" alt="<%= section.value.alt %>" src="<%= section.value.img %>" />
+              <div class="caption">
+                <p><%= section.value.caption %></p>
+              </div>
+          </div>
+          <div class="u-container-text">
 
       <% }else if(section.type == "video"){ %>
       </div>
-        <div class="lead-wrapper">
-          <div class="lead-headline">
-            <div class="headline-text">
+        <div class="video-wrapper">
+          <div class="video-headline">
+            <div class="video-headline-text">
               <h1><%= section.value.quote %></h1>
             </div>
           </div>
@@ -65,12 +75,12 @@
           </div>
         </div>
 
-        <div class="lead-wrapper-mobile">
-          <div class="lead-headline-mobile">
-            <div class="headline-text-mobile">
+        <div class="video-wrapper-mobile">
+          <!-- <div class="video-headline-mobile">
+            <div class="video-text-mobile">
               <h1><%= section.value.quoteMobile %></h1>
             </div>
-          </div>
+          </div> -->
           <div class="video-embed">
           <iframe src="<%= section.value.video %>" width="700" height="850" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           </div>
