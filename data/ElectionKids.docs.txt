@@ -14,7 +14,7 @@ Travis has been paying close attention to the political talks around him. He kno
 quote: “I think it is very annoying that the adults around me are talking about the election.”
 
 quoteMobile: “I think it is very annoying that the adults around me are talking about the election.”
-video: https://player.vimeo.com/video/470193000
+video: https://player.vimeo.com/video/473574908
 {}
 
 Travis is concerned that Biden wants to raise taxes. He thinks Trump’s plan to lower them sounds better for everyone. His perception of each candidate’s goals? “Joe Biden has done everything bad and nothing good. Donald Trump’s goals are to make the country better.” 
@@ -35,7 +35,7 @@ McKenna lives with her mom and two brothers — and a crew of awesome pets, incl
 quote: McKenna has formed the opinion that the most important thing about being the president is to care about people of all skin colors, no matter if they are rich or poor. 
 
 quoteMobile: McKenna has formed the opinion that the most important thing about being the president is to care about people of all skin colors, no matter if they are rich or poor. 
-video: https://player.vimeo.com/video/470193000
+video: https://player.vimeo.com/video/473574670
 {}
 
 She isn’t sure of Trump’s goals for the country, but she is concerned he doesn’t wear a mask. “He doesn’t like Black people, and he only likes rich people.” When she ponders Biden, she notes that she sees him wear a mask and thinks that he cares a lot about Black people. “He likes rich people and poor people.” McKenna gets most of her information about the election from ads she sees on YouTube, about both candidates. They show up amidst the content geared for kids she likes to watch. When listening to these ads, as well as adults around her discussing the election, she has formed the opinion that the most important thing about being the president is to care about people of all skin colors, no matter if they are rich or poor. 
@@ -49,7 +49,7 @@ alt: Stylized black and white photo of 11-year-old Josie with red and blue artis
 {.name-title}
 text: Josie, 11, Bellevue
 {}
-Josie loves music from all eras, acting and circus arts such as trapeze and silks. She has a slime shop on [Etsy](https://www.etsy.com/shop/CalicoSlimeryShop) and a [YouTube channel](https://www.youtube.com/watch?v=kk-RTwAj6Qc&t=10s). She loves thrift shopping, baking, and hanging out with friends. When she is a teen she hopes to work at a boba shop, and when she’s an adult she wants to be a therapist. 
+Josie loves music from all eras, acting and circus arts such as trapeze and silks. She has a slime shop on [Etsy](https://www.etsy.com/shop/CalicoSlimeryShop) and a [YouTube channel](https://www.youtube.com/watch?v=kk-RTwAj6Qc&t=10s). She loves thrift shopping, baking and hanging out with friends. When she is a teen she hopes to work at a boba shop, and when she’s an adult she wants to be a therapist. 
 
 Josie has been very observant and involved in the current election. She has been doing virtual school from home all fall, and the two candidates are a hot topic among kids her age on social media. She’s formed some opinions about each candidate’s goals. For Trump? “I think he kind of wants businesses to open up...He wants everybody to forget about coronavirus. I think he might want them to think it’s [the coronavirus] not real.” For Biden? “I feel like he is going to do a lot of things about the Black Lives Matter Movement — very good things about that.” She also likes that he and vice presidential candidate Kamala Harris plan to focus on women’s rights and helping to end the pandemic. She is concerned that Biden wants to raise taxes, and she notes that it was good early in the pandemic that Trump did urge people to stay home and be safe.
 
@@ -57,7 +57,7 @@ Josie has been very observant and involved in the current election. She has been
 quote: If Josie gets a chance to run for president among her many other pursuits, her slogan would be, “You are you, and nobody can change that.”
 
 quoteMobile: If Josie gets a chance to run for president among her many other pursuits, her slogan would be, “You are you, and nobody can change that.”
-video: https://player.vimeo.com/video/470193000
+video: https://player.vimeo.com/video/473573830
 {} 
 
 Josie has also been very observant about how supporters of candidates act, as she has many people in her life who fall on each side of the political spectrum. Her family has a vacation home in Pymatuning, and she’s noticed in that area that “people who like Trump are really putting it out there…” She notes the many flags and banners she sees for Trump, compared to the small singular Biden signs she mostly sees closer to Pittsburgh. Overall though, she feels like everyone is mad at the other side.
@@ -65,29 +65,29 @@ Josie has also been very observant about how supporters of candidates act, as sh
 If Josie gets a chance to run for president among her many other pursuits, her slogan would be, “You are you, and nobody can change that.”
 
 {.name-title}
-text: Parents 
+text: <span id=”parents”>Parents</span> 
 {}
 For the parents of the brave kids who agreed to talk to us, interviewing their kids was an eye-opening experience. Travis’s mom, Nicole, didn’t realize her son had adopted such singular views of the candidates. She said people in their family are supporting a variety of candidates. “To be honest, I think my kids must talk about politics at school. They occasionally mention what someone said at school, or a person who had a Biden sign in their yard.” Living in a rural area, the majority of Travis’s friends and their families are supporting Trump, like his parents are. His mom notes though that she rarely votes a straight party ticket and does significant research into the lower offices and propositions on each ballot. “I don't think they understand the global aspect of politics like we do.” The couple doesn’t discuss the issue of abortion with their boys directly, other than that they believe all children should be given the chance to live life. “I wish we would  have sat down and really explained the pros and cons to both sides. I found out in interviewing my son for this that he has a very narrow-minded view of this election that we need to expand up.”
 
 {.parents-img}
 img: https://www.publicsource.org/wp-content/uploads/2020/10/travis-family.jpg
-alt: #
-caption: Add caption
+alt: Travis with his mom Nicole and brother Levi. (Courtesy photo)
+caption: Travis with his mom Nicole and brother Levi.<br>(Courtesy photo)
 {}
 McKenna’s mom Kellie is frustrated about the amount of political ads on YouTube — particularly those showing up on videos targeted to young kids. “She scoffs when Trump comes on, but she is listening and making up her own mind.” McKenna has two older brothers, Zeke and Kai. As a college freshman, Kai is of voting age for the first time this election. McKenna hears her mom and Kai discuss the election, but she isn’t around many other adults right now due to the pandemic. Kellie knows McKenna is a diplomat; she’s overheard the second grader lecturing others on proper mask wearing. “I need to expose her more to these current strong women [in office], we have done a lot about historic Black women and Michelle Obama.”
 
 {.parents-img}
 img: https://www.publicsource.org/wp-content/uploads/2020/10/mckenna-mom.jpg
 alt: #
-caption: Add caption
+caption: McKenna with her mom Kellie.<br>(Courtesy photo)
 {} 
 
 Josie, the oldest kid we talked to, is the daughter of parents who often fall on different sides of the political aisle, though her mom feels “not to extremes.” Josie’s dad Mark is more private with his views while her mom Julie is more vocal. Working from home during the pandemic, while Josie does virtual school, has given her mom a great deal of time with her daughter, and their views tend to align more. But Julie definitely sees Josie seeking out information and forming her own opinions. Josie’s four older siblings — Haley, 26, Evan, 23, Sam, 17, and Charlie, 15 — don’t discuss too much of their political views around their baby sister. Haley believes Josie is perceptive and just picks up on stuff around her, and her mom adds that politics are definitely a hot topic with the kids at (virtual) school.
 
 {.parents-img}
 img: https://www.publicsource.org/wp-content/uploads/2020/10/josie-family.jpg
-alt: #
-caption: Add caption
+alt: Josie is in front and from left to right: Josie’s dad Mark, sister Haley, brother Evan, Brother Charlie, brother Sam and mom Julie.
+caption: Josie is in front and from left to right: Josie’s dad Mark, sister Haley, brother Evan, Brother Charlie, brother Sam and mom Julie.<br>(Courtesy photo)
 {}  
 
 {.name-title}
@@ -95,7 +95,7 @@ text: Experts
 {}
 In a time when  kids are bombarded with information, ads, sound bites and opinions, how do parents decide what and how to share? Would many kids surprise their parents if we sat down to interview them, as these families did? 
 
-Andrea Barbalich is the editor-in-chief of The Week Junior, a weekly magazine that  presents kids with current events in a politically neutral manner. She urges parents to recognize that this is a scary time for kids — more so than any other election. Whether we talk to them about it or not, they are aware of the ways in which the world is topsy-turvey right now, and are looking for guidance from adults they can trust. Barbalich’s publication conducted a survey in conjunction with the data and analytics group YouGov, and found that many kids have formed strong opinions on this political race. Of 700 kids ages 8-12, their answers showed critical thinking about the topics at hand. 
+Andrea Barbalich is the editor-in-chief of [The Week Junior](https://theweekjunior.com/), a weekly magazine that  presents kids with current events in a politically neutral manner. She urges parents to recognize that this is a scary time for kids — more so than any other election. Whether we talk to them about it or not, they are aware of the ways in which the world is topsy-turvey right now, and are looking for guidance from adults they can trust. Barbalich’s publication conducted a survey in conjunction with the data and analytics group [YouGov](https://today.yougov.com/), and found that many kids have formed strong opinions on this political race. Of 700 kids ages 8-12, their answers showed critical thinking about the topics at hand. 
 
 {.pullquote}
 text: “Keep the tone positive and factual, with the goal of helping kids feel informed and not panicked or scared.”
@@ -107,7 +107,7 @@ Dr. Tania Kannadan, a Pittsburgh-based child psychiatrist, has seen a dramatic i
 
 {.expander1}
 title: The Week Junior and YouGov leadership study
-text: The <b>top four issues</b> that children surveyed said they’d like the <b>president</b> to focus on were… <br><br><b>·</b>Protecting the Earth (49%)<br><b>·</b>Making sure people have health care (46%)<br><b>·</b>Improving education (43%)<br><b>·</b>Ensuring equality for all (42%)<br><br>When asked what would be the <b>first thing they’d do if elected president</b>, the top answers were…<br><br><b>·</b>To make sure everyone feels safe (22%)<br><b>·</b>Promote equality for all (18%)<br><b>·</b>Make sure all kids get a good education (16%)<br><b>·</b>Make sure everyone has health care (13%)<br><br>When asked <b>who they would vote for</b> if given the opportunity…<br><br><b>·</b>Biden/Harris (49%)<br><b>·</b>Trump/Pence (34%)<br><b>·</b>I don’t know (15%)<br><b>·</b>Another candidate (2%)
+text: The <b>top four issues</b> that children surveyed said they’d like the <b>president</b> to focus on were… <br><br><b>·</b> Protecting the Earth (49%)<br><b>·</b> Making sure people have health care (46%)<br><b>·</b> Improving education (43%)<br><b>·</b> Ensuring equality for all (42%)<br><br>When asked what would be the <b>first thing they’d do if elected president</b>, the top answers were…<br><br><b>·</b> To make sure everyone feels safe (22%)<br><b>·</b> Promote equality for all (18%)<br><b>·</b> Make sure all kids get a good education (16%)<br><b>·</b> Make sure everyone has health care (13%)<br><br>When asked <b>who they would vote for</b> if given the opportunity…<br><br><b>·</b> Biden/Harris (49%)<br><b>·</b> Trump/Pence (34%)<br><b>·</b> I don’t know (15%)<br><b>·</b> Another candidate (2%)
 {}
 As for how to approach talking about politics with our kids, Kannadan stresses that it is really about  what your child can handle. Kannadan doesn’t outline strict age guidelines for these topics, as each kid has a different level of emotional intelligence. Often, in her practice, she sees a shift when kids move into upper elementary/middle school.  It’s okay to shelter them a little bit from some of the debate,” she said. “In this election, the vocabulary they use is so sensationalized. It worsens anxiety for many kids.” With older children who are beginning to grasp some more complex points of politics, she encourages parents to be both honest and objective. While Kannadan knows it can be difficult, she urges parents to try to present platform information in a straightforward manner without  hyperbole used in many political ads and conversations. Parents can use simple language like, “I am going to be voting. We are exercising our right to democracy, and this is how the government works…”
 
@@ -115,6 +115,8 @@ Kannadan is particularly concerned about kids of color who hear the president’
 
 *Meg St-Esprit is a freelance journalist based in Bellevue. She can be reached at [megstesprit@gmail.com](mailto:megstesprit@gmail.com) or on Twitter [@MegStEsprit](https://twitter.com/MegStEsprit).*
 
+*This story was fact-checked by Emily Briselli.*
 
+*Web design and development by PublicSource Creative Director Natasha Vicens.*
 
 []

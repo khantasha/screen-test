@@ -40,11 +40,14 @@
 
 .u-container-text h3 {
   font-family: @zilla;
-  font-size: 2.2em;
+  font-size: 2em;
   font-weight: 800;
   line-height: 1.05em;
   color: black;
   margin: 1em 0 1em 0;
+  @media @mobile {
+    font-size: 1.6em;
+  }
 }
 
 .u-container-text a {
@@ -84,6 +87,9 @@
     max-width: 475px;
     margin-left: auto;
     margin-right: auto;
+    @media @mobile {
+      max-width: 325px;
+    }
 }
 
 .inline-img {
@@ -95,7 +101,7 @@
 .caption {
   text-align: center;
   margin-left: 20px;
-  max-width: 200px;
+  max-width: 300px;
   margin-right: auto;
   margin-left: auto;
   font-family: @serif;
